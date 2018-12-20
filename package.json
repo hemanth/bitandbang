@@ -1,6 +1,6 @@
 {
-	"name": "hemanth",
-	"version": "1.1.0",
+	"name": "hemanth.hm",
+	"version": "0.0.1",
 	"description": "A personal card for Hemanth.HM (@gnumanth)",
 	"main": "index.js",
 	"bin": {
